@@ -1,4 +1,14 @@
 {
-    "name": "arcwindab/sql",
-    "type": "library"
+    "name": "arcwindab/template",
+    "type": "library",
+    
+    "autoload": {
+        "classmap"   : ["src/"]
+    },
+    
+    "config": {
+        "use-include-path": true
+    },
+    
+    "license"        : "MIT"
 }
