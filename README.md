@@ -1,9 +1,12 @@
 # ArcWind Template
 [![Latest Stable Version](https://poser.pugx.org/arcwindab/template/v/stable.svg)](https://packagist.org/packages/arcwindab/template)
 [![Latest Unstable Version](https://poser.pugx.org/arcwindab/template/v/unstable.svg)](https://packagist.org/packages/arcwindab/template)
+[![Build Status](https://travis-ci.org/arcwindab/template.svg)](https://travis-ci.org/arcwindab/template)  
 
 [![Total Downloads](https://poser.pugx.org/arcwindab/template/downloads)](https://packagist.org/packages/arcwindab/template)
-[![Build Status](https://travis-ci.org/arcwindab/template.svg)](https://travis-ci.org/arcwindab/template)
+[![star this repo](http://githubbadges.com/star.svg?user=orglman&repo=fundamental&style=flat)](https://github.com/orglman/fundamental)
+[![fork this repo](http://githubbadges.com/fork.svg?user=orglman&repo=fundamental&style=flat)](https://github.com/orglman/fundamental/fork)  
+
 [![License](https://poser.pugx.org/arcwindab/template/license.svg)](https://packagist.org/packages/arcwindab/template)
 
 ## Disclaimer
