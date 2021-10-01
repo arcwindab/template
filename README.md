@@ -10,5 +10,5 @@
 In the words of Abraham Lincoln:
 > Pardon my French
 
-My English, and technical terms in code, my english is not very good - I'm not a native speaker.  
+My English, and technical terms in code, is not very good - I'm not a native speaker.  
 Sorry for any confusion that may occur.
