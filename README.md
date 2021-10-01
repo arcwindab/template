@@ -4,8 +4,6 @@
 [![Build Status](https://travis-ci.org/arcwindab/template.svg)](https://travis-ci.org/arcwindab/template)  
 
 [![Total Downloads](https://poser.pugx.org/arcwindab/template/downloads)](https://packagist.org/packages/arcwindab/template)
-[![star this repo](https://githubbadges.com/star.svg?user=arcwindab&repo=template&style=flat)](https://github.com/arcwindab/template)
-[![fork this repo](https://githubbadges.com/fork.svg?user=arcwindab&repo=template&style=flat)](https://github.com/arcwindab/template/fork)
 [![GitHub issues open](https://img.shields.io/github/issues/arcwindab/template.svg)](https://github.com/arcwindab/template/issues)
 
 [![License](https://poser.pugx.org/arcwindab/template/license.svg)](https://packagist.org/packages/arcwindab/template)
