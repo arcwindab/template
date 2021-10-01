@@ -16,9 +16,9 @@ Sorry for any confusion that may occur.
 ## Install
 ArcWind Template is available on [Packagist](https://packagist.org/packages/arcwindab/template) and installation via Composer is the recommended way to install ArcWind Template. Just add this line to your composer.json file:
 ```
-"orglman/fundamental": "@dev"
+"arcwindab/template": "@dev"
 ```
 or run
 ```
-composer require orglman/fundamental
+composer require arcwindab/template
 ```
