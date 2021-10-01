@@ -1,10 +1,10 @@
-# ArcWind SQL
-[![Latest Stable Version](https://poser.pugx.org/arcwindab/sql/v/stable.svg)](https://packagist.org/packages/arcwindab/sql)
-[![Latest Unstable Version](https://poser.pugx.org/arcwindab/sql/v/unstable.svg)](https://packagist.org/packages/arcwindab/sql)
+# ArcWind Template
+[![Latest Stable Version](https://poser.pugx.org/arcwindab/template/v/stable.svg)](https://packagist.org/packages/arcwindab/template)
+[![Latest Unstable Version](https://poser.pugx.org/arcwindab/template/v/unstable.svg)](https://packagist.org/packages/arcwindab/template)
 
-[![Total Downloads](https://poser.pugx.org/arcwindab/sql/downloads)](https://packagist.org/packages/arcwindab/sql)
-[![Build Status](https://travis-ci.org/arcwindab/sql.svg)](https://travis-ci.org/arcwindab/sql)
-[![License](https://poser.pugx.org/arcwindab/sql/license.svg)](https://packagist.org/packages/arcwindab/sql)
+[![Total Downloads](https://poser.pugx.org/arcwindab/template/downloads)](https://packagist.org/packages/arcwindab/template)
+[![Build Status](https://travis-ci.org/arcwindab/template.svg)](https://travis-ci.org/arcwindab/template)
+[![License](https://poser.pugx.org/arcwindab/template/license.svg)](https://packagist.org/packages/arcwindab/template)
 
 ## Disclaimer
 In the words of Abraham Lincoln:
