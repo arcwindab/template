@@ -10,5 +10,10 @@
         "use-include-path": true
     },
     
-    "license"        : "MIT"
+    "license"        : "MIT",
+    
+    "require" : {
+        "php" : ">=7.0"
+    }
+
 }
