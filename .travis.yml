@@ -15,7 +15,10 @@ php:
   - '7.4'
   - '8.0'
   
+  - 'hhvm'
+  
 install:
+  - composer self-update
   - composer install
 
 script: 
