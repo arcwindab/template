@@ -1,6 +1,6 @@
 # Travis CI Configuration File
+# https://app.travis-ci.com/github/arcwindab/
 
-# Tell Travis CI we're using PHP
 language: php
 os: linux
 dist: xenial
@@ -14,12 +14,16 @@ php:
   - '7.3'
   - '7.4'
   - '8.0'
-  
   - 'hhvm'
   
-install:
+before_script:
   - composer self-update
   - composer install
 
 script: 
   - php test/index.php
+  
+  
+matrix:
+  allow_failures:
+    - php: hhvm
